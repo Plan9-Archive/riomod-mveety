@@ -1,0 +1,17 @@
+Riomod -- The back fell off!
+
+	Riomod is a modification of rio to include extra features (read bloat (because fuck you))
+that I wanted in rio. 
+
+Building:
+	untar it.
+	run mk.
+
+installing:
+	copy to $HOME/bin/$cputype
+	
+running:
+	% riomod
+
+enjoy,
+Matthew Veety
