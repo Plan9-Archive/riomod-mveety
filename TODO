@@ -1,0 +1,15 @@
+riomod TODO:
+	- add more coloured backgrounds!
+	- add a configuration file
+	- finish adding debugging output
+	- add a clock to the desktop
+	- save running applications on exit
+	- save positions of windows on exit
+	- restore saved applications on exit
+	- add a dock of hidden windows in some corner (think BeOS)
+	- add a button to the top of the dock that when clicked brings up the
+		button3 menu
+	- add (removable) titlebars to windows with buttons
+	- support mice with <3 buttons
+	- remove global variables
+	
